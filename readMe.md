@@ -13,11 +13,11 @@ Hello! I'm Luís Felipe, a passionate developer dedicated to creating elegant an
 
 ## 📂 Featured Projects
 
-### 1. [Alura-Spring-Challenge](https://github.com/yourusername/java-backend-project)](https://github.com/LuisFelipeRochaMartins/Alura-Spring-Challenge)
+### 1.  [Alura-Spring-Challenge](https://github.com/yourusername/java-backend-project)](https://github.com/LuisFelipeRochaMartins/Alura-Spring-Challenge)
 - **Description**: A console API that validates car prices based on their model, year of manufacture, and other factors
 - **Technologies**: Java, Spring Boot, Http, Stream Collection.
 
-### 2. [Space Gallery](https://github.com/yourusername/react-frontend-project)](https://github.com/LuisFelipeRochaMartins/Alura-Galery)
+### 2.  [Space Gallery](https://github.com/yourusername/react-frontend-project)](https://github.com/LuisFelipeRochaMartins/Alura-Galery)
 - **Description**: A Single Page Application (SPA) developed with React.
 - **Technologies**: React, Styled Components, Vite.js.
 
@@ -28,4 +28,4 @@ Hello! I'm Luís Felipe, a passionate developer dedicated to creating elegant an
 
 ## 📫 How to Reach Me
 
-- **Email**: [youremail@example.com](mailto:luisfelipetochamartins@gmail.com)
+- **Email**: [luisfelipetochamartins@gmail.com](mailto:luisfelipetochamartins@gmail.com)
