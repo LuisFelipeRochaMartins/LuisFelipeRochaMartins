@@ -13,9 +13,9 @@ Hello! I'm Luís Felipe, a passionate developer dedicated to creating elegant an
 
 ## 📂 Featured Projects
 
-### 1.  [Alura-Spring-Challenge](https://github.com/yourusername/java-backend-project)](https://github.com/LuisFelipeRochaMartins/Alura-Spring-Challenge)
-- **Description**: A console API that validates car prices based on their model, year of manufacture, and other factors
-- **Technologies**: Java, Spring Boot, Http, Stream Collection.
+### 1.  [medical-clini](https://github.com/yourusername/java-backend-project)](https://github.com/LuisFelipeRochaMartins/medical-clinic)
+- **Description**: A RESTful API designed for a medical system that facilitates scheduling and managing consultations between patients and doctors. The API includes JWT-based authentication to ensure secure access, uses   Bean Validation for input data validation, and provides an interactive Swagger UI for easy API testing and documentation.
+- **Technologies**: Java, Spring Boot, JWT, PostgreSQL (PgAdmin), Bean Validation, Swagger UI.
 
 ### 2.  [Space Gallery](https://github.com/yourusername/react-frontend-project)](https://github.com/LuisFelipeRochaMartins/Alura-Galery)
 - **Description**: A Single Page Application (SPA) developed with React.
