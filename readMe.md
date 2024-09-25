@@ -23,8 +23,10 @@ Hello! I'm Luís Felipe, a passionate developer dedicated to creating elegant an
 
 ## 🌱 Currently Learning
 
-- **Node.js**: To expand my backend development skills with JavaScript.
-- **Docker**: To create consistent and scalable development and production environments.
+- **Node.js**: To expand my backend and frontend development skills with JavaScript.
+- **Spring Boot**: To enhance my backend development expertise.
+- **Quarkus**: For building efficient and cloud-native Java applications.
+- **Kotlin**: To explore a modern and expressive language for backend development.
 
 ## 📫 How to Reach Me
 
